@@ -21,6 +21,30 @@ A full-featured e-commerce platform built using the MERN (MongoDB, Express.js, R
 - Dashboard with analytics
 - Inventory management
 
+![Screenshot 2025-06-12 225703](https://github.com/user-attachments/assets/c4a37cfe-277c-4352-93a6-b5e34c06130c)
+
+
+![Screenshot 2025-06-12 231054](https://github.com/user-attachments/assets/a7f4f7ee-d284-4b5e-a1b9-5913888ebb2d)
+
+![Screenshot 2025-06-12 231124](https://github.com/user-attachments/assets/8450e42b-7f5b-4e1e-addb-12d763c9c9dc)
+
+![Screenshot 2025-06-12 231301](https://github.com/user-attachments/assets/3741e2fe-6eda-490e-bb0f-3bd676e77703)
+
+![Screenshot 2025-06-12 231356](https://github.com/user-attachments/assets/80b2472d-6e0e-4073-aad2-0d90d0a4f192)
+
+![Screenshot 2025-06-12 231748](https://github.com/user-attachments/assets/68a5df6c-1b72-4195-89b2-9dbdc9e125f8)
+
+
+![Screenshot 2025-06-12 231902](https://github.com/user-attachments/assets/082258fa-0cbd-46df-b3d2-52277fec5d57)
+
+![Screenshot 2025-06-12 231920](https://github.com/user-attachments/assets/73be190a-12a1-4a95-8393-eebdb56fb730)
+
+![Screenshot 2025-06-12 232017](https://github.com/user-attachments/assets/8ccc37ae-3b27-4cb8-ad16-da72e4a5641a)
+
+![Screenshot 2025-06-12 232131](https://github.com/user-attachments/assets/147a0994-3391-44e3-a841-c0057527fb5e)
+
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
