@@ -1,6 +1,6 @@
 # MERN E-Commerce Platform
 
-A full-featured e-commerce platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with modern tools and best practices.
+A full-featured e-commerce platform built using the MERN (MongoDB, Express.js, React.js, Node.js) used cohere AI for context based communication with users.
 
 ## 🌟 Key Features
 
@@ -137,24 +137,3 @@ npm run dev
 - POST /api/orders - Create order
 - GET /api/orders/:id - Get order details
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
